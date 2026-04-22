@@ -1,0 +1,1 @@
+var json_Descarga_6 = {"type":"FeatureCollection","name":"Descarga_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"LineString","coordinates":[[-73.440791131329448,-37.231347236487267],[-73.441216590733802,-37.231962544824569]]}}]}
